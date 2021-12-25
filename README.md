@@ -1,2 +1,2 @@
-# crash-your-pc
-A simple app to crash your PC
+# crash-your-browser
+A simple app to crash your browser
